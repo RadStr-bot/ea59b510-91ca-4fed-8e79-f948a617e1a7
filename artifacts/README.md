@@ -1,1 +1,1 @@
-Tento dokument byl vygenerován 27. 11. 2025 9:27:13.
+Tento dokument byl vygenerován 27. 11. 2025 10:41:09.
