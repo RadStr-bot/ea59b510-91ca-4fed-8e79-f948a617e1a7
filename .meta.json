@@ -1,0 +1,21 @@
+{
+  "iri": "ea59b510-91ca-4fed-8e79-f948a617e1a7",
+  "projectIri": "ea59b510-91ca-4fed-8e79-f948a617e1a7",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "cs": "nove-testy"
+    },
+    "description": {}
+  },
+  "metadata": {
+    "creationDate": "2025-11-27T09:24:58.508Z",
+    "modificationDate": "2025-11-27T09:25:11.625Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedAt": "2025-11-27T09:25:13.801Z",
+  "_exportedBy": "http://localhost:3100"
+}
